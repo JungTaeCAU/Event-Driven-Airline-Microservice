@@ -15,6 +15,7 @@ This project was built in Ubuntu 20.04.1 LTS.
 * [Spring Tool Suite 4.8.0 - Linux 64-Bit](https://spring.io/tools)
 * [RabbitMQ](https://www.rabbitmq.com/)
 * [Apache Maven 3.6.3](https://maven.apache.org/)
+* [nGrinder](http://naver.github.io/ngrinder/)
 
 Clone this repo
 -------------
@@ -51,3 +52,29 @@ $ mvn clean install -Dmaven.test.skip=true
 </code>
 </pre>    
 
+or more easy way..
+-------------
+just simply import this project on STS then drag all service and click Start
+
+GIF 1 첨부
+
+Stress test with nGrinder
+-------------
+Follow the guide in nGrinder Documents to launch. [nGrinder](http://naver.github.io/ngrinder/)
+i made 2 scenarios
++ 1 agent
++ 1000 vuser, 1500 vuser, 2000 vuser
+
+사진 첨부 2,3
+
+For stress test on heavy load
++ 1 agent
++ 4000 vuser
+
+사진 첨부 4,5
+
+Conclusion and Future Challenges
+-------------
+In this paper, we implement a flight reservation system by applying an event-driven architecture which is one step further from the existing microservice architecture. 
+Event-driven architectures can rule out inter-service dependencies by replacing communications for cross-service data references with asynchronous event-based message queuing systems in a synchronous structure.
+In addition, it is possible to build a high level of independent services that are not overly tied to a particular library or system and can respond to various changes.
