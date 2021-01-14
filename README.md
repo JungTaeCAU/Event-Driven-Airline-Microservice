@@ -19,3 +19,18 @@ This project was built in Ubuntu 20.04.1 LTS.
 Clone this repo
 -------------
     git clone https://github.com/JungTaeCAU/airlineweb/edit/main/README.md
+
+Run in Local
+-------------
+1. Booking Service
+    $ cd Booking-Service
+    $ mvn clean install -Dmaven.test.skip=true
+2. Search Service
+    $ cd Search-Service
+    $ mvn clean install -Dmaven.test.skip=true
+3. Fares Service
+    $ cd Fares-Service
+    $ mvn clean install -Dmaven.test.skip=true
+4. CheckIn Service
+    $ cd CheckIn-Service
+    $ mvn clean install -Dmaven.test.skip=true
