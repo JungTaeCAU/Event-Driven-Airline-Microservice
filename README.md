@@ -1,4 +1,4 @@
 Airline with Microserive
 =============
 This project is a master's degree thesis in February 2021. Airline with microservice is based on event-driven architecture and
-asynchronous communication. This web project implemented airline booking service using [RabbitMQ](https://www.rabbitmq.com/,"RabbitMQ") and microservice architecture.
+asynchronous communication. This web project implemented airline booking service using [RabbitMQ](https://www.rabbitmq.com/) and microservice architecture.
