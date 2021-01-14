@@ -23,23 +23,31 @@ Clone this repo
 Run in Local
 -------------
 1. Booking Service
-
-    $ cd Booking-Service
-    $ mvn clean install -Dmaven.test.skip=true
-    
+<pre>
+<code>
+$ cd Booking-Service 
+$ mvn clean install -Dmaven.test.skip=true
+</code>
+</pre>
 2. Search Service
-
-    $ cd Search-Service
-    $ mvn clean install -Dmaven.test.skip=true
-    
+<pre>
+<code>
+$ cd Search-Service
+$ mvn clean install -Dmaven.test.skip=true
+</code>
+</pre>    
 3. Fares Service
-
-    $ cd Fares-Service
-    $ mvn clean install -Dmaven.test.skip=true
-    
+<pre>
+<code>
+$ cd Fares-Service
+$ mvn clean install -Dmaven.test.skip=true
+</code>
+</pre>    
 4. CheckIn Service
-
-    $ cd CheckIn-Service
-    $ mvn clean install -Dmaven.test.skip=true
-    
+<pre>
+<code>
+$ cd CheckIn-Service
+$ mvn clean install -Dmaven.test.skip=true
+</code>
+</pre>    
 
