@@ -79,7 +79,7 @@ For stress test on heavy load
 
 Conclusion and Future Challenges
 -------------
-In this paper, we implement a flight reservation system by applying an event-driven architecture which is one step further from the existing microservice architecture. 
+In this paper, i implemented a flight reservation system by applying an event-driven architecture which is one step further from the existing microservice architecture. 
 Event-driven architectures can rule out inter-service dependencies by replacing communications for cross-service data references with asynchronous event-based message queuing systems in a synchronous structure.
 In addition, it is possible to build a high level of independent services that are not overly tied to a particular library or system and can respond to various changes.
 
