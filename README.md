@@ -20,6 +20,10 @@ This project was built in Ubuntu 20.04.1 LTS.
 Clone this repo
 -------------
     git clone https://github.com/JungTaeCAU/airlineweb/edit/main/README.md
+RabbitMQ Cluster
+-------------
+I used docker to cluster RabbitMQ. More detail is in the link below
+* [RabbitMQ Cluster](https://github.com/bijukunjummen/docker-rabbitmq-cluster)
 
 Run in Local
 -------------
