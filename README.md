@@ -5,7 +5,7 @@ asynchronous communication. This web project implemented airline booking service
 Then i used the load test tool [nGrinder](http://naver.github.io/ngrinder/) to perform stress test.
 > The whole project was writen with Spring([STS](https://spring.io/tools))
 
-사진 1
+<img src = "https://user-images.githubusercontent.com/37211139/104693386-e9687480-574c-11eb-945a-bb8b2872eb51.png" width = "70%"/>
 
 How to Run
 =============
@@ -65,13 +65,13 @@ i made 2 scenarios
 + 1 agent
 + 1000 vuser, 1500 vuser, 2000 vuser
 
-사진 첨부 2,3
+<img src = "https://user-images.githubusercontent.com/37211139/104693618-52e88300-574d-11eb-9b28-a89f16e4f121.JPG" width = "70%" />
 
 For stress test on heavy load
 + 1 agent
 + 4000 vuser
 
-사진 첨부 4,5
+<img src = "https://user-images.githubusercontent.com/37211139/104693846-ac50b200-574d-11eb-8e54-8084324e42c3.JPG" width = "70%" />
 
 Conclusion and Future Challenges
 -------------
