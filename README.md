@@ -30,28 +30,28 @@ Run in Local
 1. Booking Service
 <pre>
 <code>
-$ cd Booking-Service 
+$ cd book
 $ mvn clean install -Dmaven.test.skip=true
 </code>
 </pre>
 2. Search Service
 <pre>
 <code>
-$ cd Search-Service
+$ cd search
 $ mvn clean install -Dmaven.test.skip=true
 </code>
 </pre>    
 3. Fares Service
 <pre>
 <code>
-$ cd Fares-Service
+$ cd fares
 $ mvn clean install -Dmaven.test.skip=true
 </code>
 </pre>    
 4. CheckIn Service
 <pre>
 <code>
-$ cd CheckIn-Service
+$ cd checkin
 $ mvn clean install -Dmaven.test.skip=true
 </code>
 </pre>    
