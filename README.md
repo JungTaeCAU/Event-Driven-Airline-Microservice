@@ -60,7 +60,7 @@ or more easy way..
 -------------
 just simply import this project on STS then drag all service and click Start
 
-GIF 1 첨부
+<img src = "https://user-images.githubusercontent.com/37211139/105005381-95c19800-5a78-11eb-85d6-4ee3b73a25ed.gif" width = "50%" />
 
 Stress test with nGrinder
 -------------
