@@ -1,0 +1,6 @@
+/home/jungtae/Spring5Microservice/chapter7-final/chapter7.checkin/src/main/java/com/brownfield/pss/checkin/repository/CheckinRepository.java
+/home/jungtae/Spring5Microservice/chapter7-final/chapter7.checkin/src/main/java/com/brownfield/pss/checkin/entity/CheckInRecord.java
+/home/jungtae/Spring5Microservice/chapter7-final/chapter7.checkin/src/main/java/com/brownfield/pss/checkin/controller/CheckInController.java
+/home/jungtae/Spring5Microservice/chapter7-final/chapter7.checkin/src/main/java/com/brownfield/pss/checkin/component/Sender.java
+/home/jungtae/Spring5Microservice/chapter7-final/chapter7.checkin/src/main/java/com/brownfield/pss/checkin/Application.java
+/home/jungtae/Spring5Microservice/chapter7-final/chapter7.checkin/src/main/java/com/brownfield/pss/checkin/component/CheckinComponent.java

@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: jungtae
+Build-Jdk: 14.0.2
+Implementation-Title: chapter7-final.book-apigateway
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.brownfield.pss
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/book-apigatewa
+ y/
+Created-By: Maven Integration for Eclipse
+
