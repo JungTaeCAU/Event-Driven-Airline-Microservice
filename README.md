@@ -4,6 +4,7 @@ This project is a master's degree thesis in February 2021. Airline with microser
 asynchronous communication. This web project implemented airline booking service using [RabbitMQ](https://www.rabbitmq.com/) and microservice architecture. 
 Then i used the load test tool [nGrinder](http://naver.github.io/ngrinder/) to perform stress test.
 > The whole project was writen with Spring([STS](https://spring.io/tools))
+> You can check out my paper in this page. ([DBpia](https://www.dbpia.co.kr/journal/detail?nodeId=T15782416))
 
 <img src = "https://user-images.githubusercontent.com/37211139/104693386-e9687480-574c-11eb-945a-bb8b2872eb51.png" width = "70%"/>
 
